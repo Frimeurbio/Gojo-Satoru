@@ -20,7 +20,7 @@ global.APIKeys = {
 
 //customize settings\\
 global.owner = ['Frimeur bio']
-global.premium = ['Your Number']
+global.premium = [693593103']
 global.ownernomer = '693593103'
 global.ownername = '🐦Star Boy Nexus'
 global.botname = 'Gojo-Satoru'
